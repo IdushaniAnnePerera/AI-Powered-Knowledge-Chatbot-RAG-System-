@@ -1,0 +1,4 @@
+Product Orion release notes:
+- Version 2.4 launched on 2025-01-15.
+- Added offline mode for dashboard caching.
+- Fixed bug where export button failed for CSV files larger than 10MB.
